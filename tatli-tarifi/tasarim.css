@@ -1,0 +1,39 @@
+
+body{
+    background-color: bisque;
+    font-family: sans-serif;
+}
+
+.sayfa{
+    width: 950px;
+  
+}
+
+#baslik{
+    font-style: italic;
+    font-size: 1.2 em;
+    color: rgb(167, 98, 49);
+    text-decoration: none;
+}
+
+.ust{
+    font-style: italic;
+}
+
+.orta{
+    margin: 100px;
+   
+    }
+
+.alt{
+    text-align: right;
+    color: rgb(82, 53, 34);
+}
+
+#baslikbir{
+    color: rgb(196, 78, 42);
+}
+
+#baslikiki{
+    color: rgb(182, 118, 45);
+}

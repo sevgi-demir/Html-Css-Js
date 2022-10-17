@@ -1,0 +1,23 @@
+.masterclass{
+   
+    margin: 0;
+    padding: 0;
+    height: 980px;
+    width: auto;
+
+}
+.firstclass{
+    height: 8em;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 1em;
+
+    
+}
+.secondclass{
+    background-color: rgb(245, 240, 240);
+   
+}
+.thirdclass{
+    background-color: beige;
+}
